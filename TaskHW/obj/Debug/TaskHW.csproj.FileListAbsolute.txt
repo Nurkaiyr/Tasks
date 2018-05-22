@@ -1,0 +1,7 @@
+C:\Users\едиген\source\repos\TaskHW\TaskHW\bin\Debug\TaskHW.exe.config
+C:\Users\едиген\source\repos\TaskHW\TaskHW\bin\Debug\TaskHW.exe
+C:\Users\едиген\source\repos\TaskHW\TaskHW\bin\Debug\TaskHW.pdb
+C:\Users\едиген\source\repos\TaskHW\TaskHW\obj\Debug\TaskHW.csproj.CoreCompileInputs.cache
+C:\Users\едиген\source\repos\TaskHW\TaskHW\obj\Debug\TaskHW.exe
+C:\Users\едиген\source\repos\TaskHW\TaskHW\obj\Debug\TaskHW.pdb
+C:\Users\едиген\source\repos\TaskHW\TaskHW\obj\Debug\TaskHW.csprojResolveAssemblyReference.cache
